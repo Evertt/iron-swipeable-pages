@@ -1,0 +1,59 @@
+{
+  "name": "iron-swipeable-pages",
+  "authors": [
+    "Pascal Gula aka MeTaNoV <pascal.gula@gmail.com>"
+  ],
+  "description": "[Polymer 1.x] Element that enables switching between different pages by swiping gesture.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "web",
+    "component",
+    "components",
+    "custom",
+    "element",
+    "polymer",
+    "iron",
+    "page",
+    "pages",
+    "swipe",
+    "swipeable",
+    "content"
+  ],
+  "main": "iron-swipeable-pages.html",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MeTaNoV/iron-swipeable-pages.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/MeTaNoV/iron-swipeable-pages/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^1.0.0",
+    "iron-selector": "PolymerElements/iron-selector#^1.0.0"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "paper-tabs": "PolymerElements/paper-tabs#^1.3.0",
+    "web-component-tester": "^4.0.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "iron-test-helpers": "PolymerElements/iron-test-helpers#^1.0.0"
+  },
+  "_release": "4bce8ec397",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4bce8ec39747997cc3490600db08087cc5a429a2"
+  },
+  "_source": "git@github.com:MeTaNoV/iron-swipeable-pages.git",
+  "_target": "master",
+  "_originalSource": "git@github.com:MeTaNoV/iron-swipeable-pages",
+  "_direct": true
+}
